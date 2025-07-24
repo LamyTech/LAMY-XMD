@@ -1,0 +1,2 @@
+# LAMY-XMD
+for bots
